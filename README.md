@@ -1,2 +1,2 @@
 # js
-just js examples
+js examples + HTML to use them if needed
